@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile! 👋
-
-## Hello 
+## Welcome👋
 안녕하세요! <img alt="Static Badge" src="https://img.shields.io/badge/heabo9-%233793EF"> 입니다. <br />
 앞으로 좋은 코드 하나씩 보여드리겠습니다.
 우리 모두 화이팅! 
