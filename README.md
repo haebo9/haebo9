@@ -1,21 +1,20 @@
 # Welcome to My GitHub Profile! 👋
 
 ## Hello 
-안녕하세요! haebo9입니다. <img alt="Static Badge" src="https://img.shields.io/badge/heabo9-%233793EF">
-<br />
-<br />
+안녕하세요! <img alt="Static Badge" src="https://img.shields.io/badge/heabo9-%233793EF"> 입니다. <br />
+앞으로 좋은 코드 하나씩 보여드리겠습니다.
+우리 모두 화이팅! 
+
 ## My Intesting
-- 헬스케어 & 의료인공지능<br />
-- 영상 생성AI<br />
+- 생성형AI<br />
+- 의료인공지능<br />
 - 데이터 분석<br />
-<br />
-<br />
+
 ## How I work
 새로운 것을 배우는 것은 신나는 일입니다. <br />
-새롭고 어려운 것을 배운 후 혼자서 끙끙대면서 몇날몇일을 고생하다가 <br />
-결국 이해했을 때의 그 쾌감은 저를 숨쉬게 합니다. <br />
-<br />
-<br />
+빠르게 그러나 집요하게 공부하는 것이 중요합니다. <br />
+어려운 문제를 하나씩 해결해 갈때 저는 살아있음을 느낍니다.  <br />
+
 ## Skills
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
