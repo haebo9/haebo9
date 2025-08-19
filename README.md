@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! haebo의 깃허브입니다. 
 
 <!--
 **haebo9/haebo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
