@@ -8,7 +8,7 @@
 ---
 ### Activity Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haebo9&theme=react-dark" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haebo9&theme=react-dark" width="80%" />
 </p>
 
 ### Coding Test
