@@ -16,5 +16,3 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haebogu" height="150" />
   <img src="https://mazandi.herokuapp.com/api?handle=haebogu&theme=dark" height="150" />
 </p>
-
-<p align="right">Last Updated: 2026.01.23</p>
