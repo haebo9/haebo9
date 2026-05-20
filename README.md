@@ -6,17 +6,17 @@
 
 ## Technical Interests 
 
-- **AI가 실제 제품 흐름 안에서 판단하고 행동하는 구조**에 관심이 있습니다.
-- 단발성 답변 생성보다, 상태를 관리하고 결과를 평가하며 다음 실행 품질을 높이는 Agent workflow를 설계합니다.
-- sLLM 파인튜닝, 정량 평가, vLLM 서빙처럼 모델을 실험에서 운영 가능한 시스템으로 옮기는 과정에 집중합니다.
+- `AI가 실제 제품 흐름 안에서 판단하고 행동하는 구조`에 관심이 있습니다.
+- 단발성 답변 생성보다, 상태를 관리하고 결과를 평가하며 다음 실행 품질을 높이는 `Agent workflow`를 설계합니다.
+- sLLM 파인튜닝, 정량 평가, vLLM 서빙처럼 모델을 실험에서 `운영 가능한 시스템`으로 옮기는 과정에 집중합니다.
 
 ---
 
 ## Projects
 
 ### 1. TechTree | AI 음성 면접 & 에이전트 시스템 (1인 개발)
-* **Period** : 2025.12 - 2026.05 ![RUNNING](https://img.shields.io/badge/RUNNING-red?style=flat-square)
-* **Link** : [GitHub](https://github.com/haebo9/ai-techtree-project) | [Service](https://techtree.haebo.pro)
+* **Link** : [GitHub](https://github.com/haebo9/ai-techtree-project) | [Service](https://techtree.haebo.pro) ![LIVE](https://img.shields.io/badge/LIVE-red?style=flat-square)
+* **Period** : 2025.12.01 - 2026.05.20
 * **Stack** : Python, FastAPI, LangGraph, OpenAI Realtime API (WebRTC), MongoDB, AWS
 * **Key**
   - WebRTC 기반 초저지연 음성 UX (Push-to-Talk)
@@ -24,8 +24,8 @@
   - MongoDB Vector Search를 활용한 프롬프트 자동 개선(Self-Reflection)
 
 ### 2. 미야옹 (Meow) | 특화 sLLM 개발 및 서빙 (7인 팀 프로젝트 / 팀장, AI) 
-* **Period** : 2025.06 - 2025.08 ![OFFLINE](https://img.shields.io/badge/OFFLINE-grey?style=flat-square)
-* **Link** : [GitHub](https://github.com/100-hours-a-week/9_meow_wiki/wiki) | [Hugging Face](https://hf.haebo.pro) 
+* **Link** : [GitHub](https://github.com/100-hours-a-week/9_meow_wiki/wiki) | [Hugging Face](https://hf.haebo.pro)
+* **Period** : 2025.04.01 - 2025.08.01 
 * **Stack** : HyperCLOVA X, vLLM, FastAPI, GCP
 * **Key**
   - HyperCLOVA X 1.5B 파인튜닝(SFT)
