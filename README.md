@@ -15,7 +15,6 @@
 ## Projects
 
 ### 1. TechTree | AI 음성 면접 & 에이전트 시스템 (1인 개발)
-* **Link** : [GitHub](https://github.com/haebo9/ai-techtree-project) | [Service](https://techtree.haebo.pro) ![LIVE](https://img.shields.io/badge/LIVE-red?style=flat-square)
 * **Period** : 2025.12.01 - 2026.05.20
 * **Stack** : Python, FastAPI, LangGraph, OpenAI Realtime API (WebRTC), MongoDB, AWS
 * **Key**
